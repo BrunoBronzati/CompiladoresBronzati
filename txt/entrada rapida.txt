@@ -1,0 +1,27 @@
+---- Lex ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\AlgumaLex\dist\AlgumaLex.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\txt\analisador Lexico antlr\programa.txt
+
+---- Lexico ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-lexico\target\alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\txt\analisador Lexico antlr\programa.txt
+
+---- Sintatico ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-sintatico\target\alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies C:\Users\darkb\Desktop\312226 Final-Compiladores\txt\sintatico\programa.txt
+
+---- Semantico ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-semantico\target\alguma-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\txt\analisador semantico\programa.txt
+
+---- Gerador ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador\target\alguma-gerador-1.0-SNAPSHOT-jar-with-dependencies C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador\programa.txt
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador\target\alguma-gerador-1.0-SNAPSHOT.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador\programa.txt
+
+---- Gerador-P ----
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador-p\target\alguma-gerador-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador-p\programateste1.txt
+
+java -jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador-p\target\alguma-gerador-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\darkb\Desktop\312226 Final-Compiladores\alguma-gerador-p\programateste2.txt
